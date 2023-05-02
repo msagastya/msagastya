@@ -1,4 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<br>
+
+### My Statistics :
+<div align ="center">
+  <!-- Github Statistics -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msagastya&theme=gruvbox"/></a>
+  
+  <!-- Top Lanaguage -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msagastya&layout=compact&theme=dark"/></a>
+</div>
+
 
 <!--
 **msagastya/msagastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

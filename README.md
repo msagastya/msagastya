@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
+I am a Master's Student in Banaras Hindu University with Computer Science.
+I am currently working on Text Summarizer Project.
+I am currently learning application of various NLP tools and on implementing it.
 <br>
 
 ### My Statistics :
@@ -25,4 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a Master's Student in Banaras Hindu University with Computer Science.
+

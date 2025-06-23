@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-I am a Master's Student in Banaras Hindu University with Computer Science.
+Data Analyst, A geek for Data and always motivated for Analysis.
 
 <br>
 

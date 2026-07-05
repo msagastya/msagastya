@@ -1,30 +1,24 @@
-<h1 align="center">Hi there 👋</h1>
-Data Analyst, A geek for Data and always motivated for Analysis.
+<h1 align="center">Hi, I'm Suyash 👋</h1>
+<p align="center">Data Scientist / Analyst building at the intersection of data, finance, and applied ML.</p>
 
-<br>
+- 🔭 Currently building **stock-market-terminal** and **stock-market-predictor** — real-time Indian market tooling with live quotes, GTT orders, and technical-analysis-driven predictions
+- 📊 Documenting my data science learning path in **DataScienceJourney**
+- 🌱 Actively contributing to open-source data science / Python tooling
+- 🛠️ Stack: Python, TypeScript, Dart, SQL — pandas, scikit-learn, Docker/Redis
 
-### My Statistics :
-<div align ="center">
-  <!-- Github Statistics -->
+### Featured projects
+| Project | What it does |
+|---|---|
+| [stock-market-terminal](https://github.com/msagastya/stock-market-terminal) | Real-time Indian stock terminal — 2500+ stocks, live quotes, GTT orders |
+| [stock-market-predictor](https://github.com/msagastya/stock-market-predictor) | Technical-analysis-based market analyzer with portfolio tracking and alerts |
+| [DataScienceJourney](https://github.com/msagastya/DataScienceJourney) | Ongoing data science projects and learning notes |
+| [cricket-analytics-project](https://github.com/msagastya/cricket-analytics-project) | Data analysis on cricket data |
+| [surat-textile-studio](https://github.com/msagastya/surat-textile-studio) | AI-powered textile design studio for the Surat Jacquard/saree market |
+
+### My Statistics
+<div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=msagastya&theme=gruvbox"/></a>
-  
-  <!-- Top Lanaguage -->
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msagastya&layout=compact&theme=dark"/></a>
 </div>
 
-
-<!--
-**msagastya/msagastya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+📫 Reach me: [LinkedIn](https://linkedin.com/in/msagastya) · [Twitter/X](https://twitter.com/agastya_ms)

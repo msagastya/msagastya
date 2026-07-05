@@ -12,7 +12,7 @@
 | [stock-market-terminal](https://github.com/msagastya/stock-market-terminal) | Real-time Indian stock terminal — 2500+ stocks, live quotes, GTT orders |
 | [stock-market-predictor](https://github.com/msagastya/stock-market-predictor) | Technical-analysis-based market analyzer with portfolio tracking and alerts |
 | [DataScienceJourney](https://github.com/msagastya/DataScienceJourney) | Ongoing data science projects and learning notes |
-| [cricket-analytics-project](https://github.com/msagastya/cricket-analytics-project) | Data analysis on cricket data |
+| [cricket-data](https://github.com/msagastya/cricket-data) | Cricket match data platform — Next.js/Firebase app ingesting and serving 10K+ historical match records |
 | [surat-textile-studio](https://github.com/msagastya/surat-textile-studio) | AI-powered textile design studio for the Surat Jacquard/saree market |
 
 ### My Statistics
